@@ -33,7 +33,7 @@ File names preserve the original course progression and make it possible to revi
 5. Test connectivity and compare the result with the expected exercise stage.
 
 ```bash
-git clone https://github.com/TeixeiraThomas/Reseau-Packet-Tracer.git
+git clone https://github.com/TeixeiraThomas/cisco-packet-tracer-network-labs.git
 ```
 
 ## Topics Covered
